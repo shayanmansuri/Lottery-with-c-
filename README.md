@@ -1,1 +1,1 @@
-# Lottory-with-cpp
+# Lottery-with-cpp
